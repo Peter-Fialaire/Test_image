@@ -7,3 +7,4 @@ dependencies:
   - bqplot
   - pillow
   - matplotlib
+  - opencv-python-headless
