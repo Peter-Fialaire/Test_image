@@ -8,7 +8,7 @@ dependencies:
   - pandas
   - bqplot
   - pillow
-  - opencv-python
+  - py-opencv==4.6.0
 
 
 
